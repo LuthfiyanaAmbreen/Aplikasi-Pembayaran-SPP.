@@ -1,2 +1,2 @@
 # Aplikasi-Pembayaran-SPP.
-Aplikasi ini dikembangkan menggunakan Java Netbeans. Dikembangkan sebagai project Uji Kompetensi Program Keahlian Rekayasa Perangkat Lunak SMK Negeri 2 Kuningan.
+Proyek ini dikembangkan menggunakan Java NetBeans sebagai bagian dari Uji Kompetensi Program Keahlian Rekayasa Perangkat Lunak di SMK Negeri 2 Kuningan. Sebuah aplikasi inovatif yang menggabungkan keterampilan pengembangan perangkat lunak dengan solusi praktis yang relevan untuk kebutuhan dunia industri, mencerminkan kualitas dan profesionalisme siswa dalam bidang teknologi informasi.
